@@ -1,0 +1,179 @@
+2021-09-29 08:16:16 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 08:16:16 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 08:16:17 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 08:16:17 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 08:16:37 INFO  FirstService:87 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 08:16:37 INFO  FirstService:90 - again
+2021-09-29 08:16:37 DEBUG FirstService:105 - just testing
+2021-09-29 08:33:14 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 08:33:15 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 08:33:15 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 08:33:16 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 08:33:16 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 10:36:11 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 10:36:11 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 10:36:11 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 10:36:11 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 10:50:08 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 10:50:21 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 10:50:21 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 10:50:22 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 10:50:22 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 11:29:02 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 11:29:04 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 11:29:04 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 11:29:04 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 11:29:04 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 11:51:11 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 11:51:20 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 11:51:20 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 11:51:20 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 11:51:20 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 11:52:40 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 11:52:43 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 11:52:43 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 11:52:44 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 11:52:44 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 11:53:05 INFO  FirstService:78 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 11:53:05 INFO  FirstService:81 - again
+2021-09-29 11:53:05 DEBUG FirstService:97 - just testing
+2021-09-29 11:55:07 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 11:55:12 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 11:55:12 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 11:55:13 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 11:55:13 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 11:55:35 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 11:55:38 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 11:55:38 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 11:55:39 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 11:55:39 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 11:55:52 INFO  FirstService:77 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 11:55:52 INFO  FirstService:80 - again
+2021-09-29 11:55:52 DEBUG FirstService:96 - just testing
+2021-09-29 11:58:44 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 11:58:46 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 11:58:46 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 11:58:46 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 11:58:46 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 11:58:49 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 11:58:49 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 11:58:49 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 11:58:49 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 11:59:06 INFO  FirstService:55 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 11:59:06 INFO  FirstService:58 - again
+2021-09-29 11:59:06 DEBUG FirstService:74 - just testing
+2021-09-29 12:01:33 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:01:36 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:01:36 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:01:36 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:01:36 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:01:48 INFO  FirstService:55 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 12:01:48 INFO  FirstService:58 - again
+2021-09-29 12:01:48 ERROR FirstService:72 - org.json.JSONException: JSONObject["name"] not found.
+2021-09-29 12:01:48 DEBUG FirstService:75 - just testing
+2021-09-29 12:03:39 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:03:40 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:03:40 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:03:41 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:03:41 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:04:05 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:04:10 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:04:10 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:04:10 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:04:10 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:04:29 INFO  FirstService:55 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 12:04:29 INFO  FirstService:58 - again
+2021-09-29 12:04:29 ERROR FirstService:72 - org.json.JSONException: JSONObject["name"] not found.
+2021-09-29 12:04:29 DEBUG FirstService:75 - just testing
+2021-09-29 12:05:12 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:05:13 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:05:13 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:05:13 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:05:13 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:06:44 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:06:52 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:06:52 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:06:53 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:06:53 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:07:39 INFO  FirstService:55 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 12:07:39 INFO  FirstService:58 - again
+2021-09-29 12:07:39 ERROR FirstService:72 - org.json.JSONException: JSONObject["name"] not found.
+2021-09-29 12:07:39 DEBUG FirstService:75 - just testing
+2021-09-29 12:08:46 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:08:47 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:08:47 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:08:47 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:08:47 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:09:00 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:09:06 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:09:06 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:09:06 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:09:06 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:09:38 INFO  FirstService:55 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 12:09:38 INFO  FirstService:58 - again
+2021-09-29 12:09:38 ERROR FirstService:72 - org.json.JSONException: JSONObject["name"] not found.
+2021-09-29 12:09:38 DEBUG FirstService:75 - just testing
+2021-09-29 12:09:41 INFO  FirstService:55 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 12:09:41 INFO  FirstService:58 - again
+2021-09-29 12:09:41 ERROR FirstService:72 - org.json.JSONException: JSONObject["name"] not found.
+2021-09-29 12:09:41 DEBUG FirstService:75 - just testing
+2021-09-29 12:12:01 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:12:03 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:12:03 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:12:03 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:12:03 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:12:08 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:12:08 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:12:08 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:12:08 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:13:35 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:13:39 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:13:39 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:13:39 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:13:39 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:13:55 INFO  FirstService:57 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 12:13:55 INFO  FirstService:60 - again
+2021-09-29 12:13:55 ERROR FirstService:74 - org.json.JSONException: JSONObject["name"] not found.
+2021-09-29 12:13:55 DEBUG FirstService:77 - just testing
+2021-09-29 12:15:55 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:16:06 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:16:06 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:16:06 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:16:06 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:16:24 INFO  FirstService:57 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 12:16:24 INFO  FirstService:60 - again
+2021-09-29 12:16:24 ERROR FirstService:74 - org.json.JSONException: JSONObject["name"] not found.
+2021-09-29 12:16:24 DEBUG FirstService:77 - just testing
+2021-09-29 12:24:51 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:24:52 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:24:52 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:24:52 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:24:52 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:25:04 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:25:14 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:25:14 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:25:15 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:25:15 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:25:47 INFO  FirstService:57 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 12:25:47 INFO  FirstService:60 - again
+2021-09-29 12:31:38 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:31:48 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:31:48 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:31:48 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:31:48 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:32:13 INFO  FirstService:57 - {    "Name":"Anu",    "Maths":88,    "Physics":85,    "Chemistry":87}
+2021-09-29 12:32:13 INFO  FirstService:60 - again
+2021-09-29 12:32:13 ERROR FirstService:74 - org.json.JSONException: JSONObject["name"] not found.
+2021-09-29 12:32:13 DEBUG FirstService:77 - just testing
+2021-09-29 12:48:48 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:48:49 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:48:49 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:48:49 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:48:49 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 12:49:17 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 12:49:24 INFO  ApplicationContext:21 - context initialization started
+2021-09-29 12:49:24 INFO  ApplicationContext:28 - log4j file is loaded successfully
+2021-09-29 12:49:25 DEBUG ApplicationContext:36 - Dbconnection
+2021-09-29 12:49:25 INFO  ApplicationContext:42 - context initialization ended
+2021-09-29 13:12:58 INFO  ApplicationContext:47 - context object destroyed
+2021-09-29 13:12:59 INFO  ApplicationContext:21 - context initialization started
