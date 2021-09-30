@@ -1,19 +1,45 @@
-2021-09-29 20:50:43 INFO  ApplicationContext:21 - context initialization started
-2021-09-29 20:50:43 INFO  ApplicationContext:28 - log4j file is loaded successfully
-2021-09-29 20:50:44 DEBUG ApplicationContext:36 - Dbconnection
-2021-09-29 20:50:44 INFO  ApplicationContext:42 - context initialization ended
-2021-09-29 20:51:04 INFO  FirstService:57 - Request JSON string is:{    "Name":"Cyril",    "Roll_no":11,    "Maths":93,    "Physics":86,    "Chemistry":89}
-2021-09-29 20:51:04 INFO  FirstService:64 - again
-2021-09-29 20:51:04 INFO  FirstService:66 - trying
-2021-09-29 20:51:04 INFO  FirstService:68 - {"Maths":93,"Chemistry":89,"Roll_no":11,"Physics":86,"Name":"Cyril"}
-2021-09-29 20:51:04 INFO  FirstService:69 - Cyril
-2021-09-29 20:51:04 INFO  FirstService:70 - 11
-2021-09-29 20:51:04 INFO  FirstService:71 - 93
-2021-09-29 20:51:04 INFO  FirstService:72 - 86
-2021-09-29 20:51:04 INFO  FirstService:73 - 89
-2021-09-29 20:51:04 DEBUG FirstService:87 - just testing
-2021-09-29 20:52:52 INFO  ApplicationContext:47 - context object destroyed
-2021-09-29 20:52:54 INFO  ApplicationContext:21 - context initialization started
-2021-09-29 20:52:54 INFO  ApplicationContext:28 - log4j file is loaded successfully
-2021-09-29 20:52:54 DEBUG ApplicationContext:36 - Dbconnection
-2021-09-29 20:52:54 INFO  ApplicationContext:42 - context initialization ended
+2021-09-30 17:15:33 INFO  ApplicationContext:18 - context initialization started
+2021-09-30 17:15:33 INFO  ApplicationContext:25 - log4j file is loaded successfully
+2021-09-30 17:15:33 DEBUG ApplicationContext:33 - Dbconnection
+2021-09-30 17:15:33 INFO  ApplicationContext:39 - context initialization ended
+2021-09-30 17:15:49 INFO  ApplicationContext:44 - context object destroyed
+2021-09-30 17:15:53 INFO  ApplicationContext:18 - context initialization started
+2021-09-30 17:15:53 INFO  ApplicationContext:25 - log4j file is loaded successfully
+2021-09-30 17:15:53 DEBUG ApplicationContext:33 - Dbconnection
+2021-09-30 17:15:53 INFO  ApplicationContext:39 - context initialization ended
+2021-09-30 17:16:34 INFO  ApplicationContext:44 - context object destroyed
+2021-09-30 17:16:38 INFO  ApplicationContext:18 - context initialization started
+2021-09-30 17:16:38 INFO  ApplicationContext:25 - log4j file is loaded successfully
+2021-09-30 17:16:38 DEBUG ApplicationContext:33 - Dbconnection
+2021-09-30 17:16:38 INFO  ApplicationContext:39 - context initialization ended
+2021-09-30 17:16:54 INFO  FirstService:63 - Request JSON string is:{        "Roll_no":18}
+2021-09-30 17:16:54 INFO  FirstService:67 - {"Roll_no":18}
+2021-09-30 17:59:43 INFO  ApplicationContext:44 - context object destroyed
+2021-09-30 17:59:45 INFO  ApplicationContext:18 - context initialization started
+2021-09-30 17:59:45 INFO  ApplicationContext:25 - log4j file is loaded successfully
+2021-09-30 17:59:45 DEBUG ApplicationContext:33 - Dbconnection
+2021-09-30 17:59:45 INFO  ApplicationContext:39 - context initialization ended
+2021-09-30 17:59:56 INFO  ApplicationContext:44 - context object destroyed
+2021-09-30 18:00:00 INFO  ApplicationContext:18 - context initialization started
+2021-09-30 18:00:00 INFO  ApplicationContext:25 - log4j file is loaded successfully
+2021-09-30 18:00:00 DEBUG ApplicationContext:33 - Dbconnection
+2021-09-30 18:00:00 INFO  ApplicationContext:39 - context initialization ended
+2021-09-30 18:00:11 INFO  FirstService:63 - Request JSON string is:{    "Name":"hgy",    "Roll_no":28,    "Maths":98,    "Physics":86,    "Chemistry":83}
+2021-09-30 18:00:11 INFO  FirstService:67 - {"Maths":98,"Chemistry":83,"Roll_no":28,"Physics":86,"Name":"hgy"}
+2021-09-30 18:00:11 INFO  FirstService:69 - hgy
+2021-09-30 18:00:11 INFO  FirstService:70 - 28
+2021-09-30 18:00:11 INFO  FirstService:71 - 98
+2021-09-30 18:00:11 INFO  FirstService:72 - 86
+2021-09-30 18:00:11 INFO  FirstService:73 - 83
+2021-09-30 18:19:59 INFO  FirstService:63 - Request JSON string is:{    "Name":"hgy",    "Roll_no":28,    "Maths":98,     "Chemistry":83}
+2021-09-30 18:19:59 INFO  FirstService:67 - {"Maths":98,"Chemistry":83,"Roll_no":28,"Name":"hgy"}
+2021-09-30 18:19:59 INFO  FirstService:69 - hgy
+2021-09-30 18:19:59 INFO  FirstService:70 - 28
+2021-09-30 18:19:59 INFO  FirstService:71 - 98
+2021-09-30 22:05:57 INFO  ApplicationContext:44 - context object destroyed
+2021-09-30 22:05:59 INFO  ApplicationContext:18 - context initialization started
+2021-09-30 22:05:59 INFO  ApplicationContext:25 - log4j file is loaded successfully
+2021-09-30 22:05:59 DEBUG ApplicationContext:33 - Dbconnection
+2021-09-30 22:05:59 INFO  ApplicationContext:39 - context initialization ended
+2021-09-30 22:09:34 INFO  ApplicationContext:44 - context object destroyed
+2021-09-30 22:09:36 INFO  ApplicationContext:18 - context initialization started

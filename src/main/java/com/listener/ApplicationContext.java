@@ -2,8 +2,6 @@ package com.listener;
 
 import java.io.File;
 import java.sql.Connection;
-import java.sql.SQLException;
-
 import javax.servlet.ServletContext;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
@@ -12,7 +10,6 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
 import com.databases.DbConnection;
-import com.tests.ExampleLog;
 
 public class ApplicationContext implements ServletContextListener {
 	static Logger log = Logger.getLogger(ApplicationContext.class);  
@@ -30,9 +27,6 @@ public class ApplicationContext implements ServletContextListener {
 		  
 		try {
 			DbConnection.initTomcatDatasource();
-			DbConnection db=new DbConnection();
-			
-			Connection connection=db.getConnection();
 			log.debug("Dbconnection");
 		
 		} 
