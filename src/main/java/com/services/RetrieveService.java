@@ -11,18 +11,20 @@ import org.apache.log4j.Logger;
 import org.json.JSONObject;
 import com.bussiness.FullDetails;
 
-public class InsertionService extends HttpServlet {
-	static Logger log = Logger.getLogger(InsertionService.class);
-	private static final long serialVersionUID = 1L; 
-    
-   public InsertionService() {
+
+public class RetrieveService extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+	static Logger log = Logger.getLogger(RetrieveService.class);
+       
+    public RetrieveService() {
         super();
-        }
-   protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException   {
-	   
-   }
-   
-   protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException   {
+    }
+    
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+	}
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		StringBuilder sb = new StringBuilder();
 		String line = null;
 		try {
@@ -41,21 +43,20 @@ public class InsertionService extends HttpServlet {
 		PrintWriter out = response.getWriter();
 		response.setContentType("application/json");
 		response.setCharacterEncoding("UTF-8");
+		
 		try {
-			String name=(String) jsonObject.get("Name");
 			int roll_no=(int) jsonObject.get("Roll_no");
-			int maths=(int) jsonObject.get("Maths");
-			int physics=(int) jsonObject.get("Physics");
-			int chemistry=(int) jsonObject.get("Chemistry");
-				
-			FullDetails.insertInToDatabase(name,roll_no,maths,physics,chemistry);
-			out.print("{\"status\":\"success\"}");
+			JSONObject obj=FullDetails.retrieveFromDatabase(roll_no);
+			JSONObject obj2=new JSONObject();
+			obj2.put("result",obj);
+			out.print(obj2.toString());
+			
 		}
 		catch(Exception e) {
-			out.print("{\"status\":\"failed\"}");
+			e.printStackTrace();
 		}
-   }
+	}
+		
 }
-	
-	
-	
+
+

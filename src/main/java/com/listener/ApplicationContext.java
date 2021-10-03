@@ -1,7 +1,6 @@
 package com.listener;
 
 import java.io.File;
-import java.sql.Connection;
 import javax.servlet.ServletContext;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;

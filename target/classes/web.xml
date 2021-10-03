@@ -12,14 +12,25 @@
   </listener>
   
   <servlet>
-    <servlet-name>FirstServices</servlet-name>
-    <servlet-class>com.services.FirstService</servlet-class>
-</servlet>
+    <servlet-name>InsertionServices</servlet-name>
+    <servlet-class>com.services.InsertionService</servlet-class>
+  </servlet>
  
-<servlet-mapping>
-    <servlet-name>FirstServices</servlet-name>
+  <servlet-mapping>
+    <servlet-name>InsertionServices</servlet-name>
     <url-pattern>/InsertMarkLists</url-pattern>
-</servlet-mapping>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>RetrieveServices</servlet-name>
+    <servlet-class>com.services.RetrieveService</servlet-class>
+ </servlet>
+ 
+ <servlet-mapping>
+    <servlet-name>RetrieveServices</servlet-name>
+    <url-pattern>/RetrieveMarkLists</url-pattern>
+ </servlet-mapping>
+  
   
   
 </web-app> 
