@@ -3,3 +3,48 @@
 2021-10-03 23:57:55 DEBUG ApplicationContext:29 - Dbconnection
 2021-10-03 23:57:55 INFO  ApplicationContext:35 - context initialization ended
 2021-10-03 23:58:51 INFO  InsertionService:37 - Request JSON string is:{    "Name":"hari",    "Roll_no":23,    "Maths":81,    "Physics":98,    "Chemistry":97   }
+2021-10-04 09:01:06 INFO  ApplicationContext:17 - context initialization started
+2021-10-04 09:01:06 INFO  ApplicationContext:24 - log4j file is loaded successfully
+2021-10-04 09:01:06 DEBUG ApplicationContext:29 - Dbconnection
+2021-10-04 09:01:06 INFO  ApplicationContext:35 - context initialization ended
+2021-10-04 09:04:33 INFO  InsertionService:37 - Request JSON string is:{    "Name":"Anu",    "Roll_no":2,    "Maths":81,    "Physics":98,    "Chemistry":97   }
+2021-10-04 09:05:01 INFO  InsertionService:37 - Request JSON string is:{    "Name":"Blesson",    "Roll_no":4,    "Maths":98,    "Physics":93,    "Chemistry":84   }
+2021-10-04 09:05:27 INFO  InsertionService:37 - Request JSON string is:{    "Name":"Arya",    "Roll_no":3,    "Maths":91,    "Physics":87,    "Chemistry":34   }
+2021-10-04 09:05:57 INFO  InsertionService:37 - Request JSON string is:{    "Name":"Geethu",    "Roll_no":5,    "Maths":90,    "Physics":81,    "Chemistry":89   }
+2021-10-04 09:07:20 INFO  InsertionService:37 - Request JSON string is:{    "Name":"Arya",    "Roll_no":3,    "Maths":89,    "Physics":84,    "Chemistry":98   }
+2021-10-04 09:07:57 INFO  InsertionService:37 - Request JSON string is:{    "Name":"Hari",    "Roll_no":17,    "Maths":99,    "Physics":74,    "Chemistry":98   }
+2021-10-04 09:08:26 INFO  InsertionService:37 - Request JSON string is:{    "Name":"Hari",    "Roll_no":17,    "Maths":99,    "Physics":74   }
+2021-10-04 09:08:33 INFO  InsertionService:37 - Request JSON string is:{    "Name":"Hari",    "Roll_no":17,    "Maths":99,       }
+2021-10-04 09:08:53 INFO  InsertionService:37 - Request JSON string is:{    "Name":"Veena",    "Roll_no":17,    "Maths":99,    "Physics":74,    "Chemistry":98   }
+2021-10-04 09:08:54 INFO  InsertionService:37 - Request JSON string is:{    "Name":"Veena",    "Roll_no":17,    "Maths":99,    "Physics":74,    "Chemistry":98   }
+2021-10-04 09:09:52 INFO  InsertionService:37 - Request JSON string is:{    "Name":"Veena",    "Roll_no":24,    "Maths":93,    "Physics":72,    "Chemistry":87   }
+2021-10-04 09:10:59 INFO  RetrieveService:39 - Request JSON string is:{     "Roll_no":24   }
+2021-10-04 09:11:10 INFO  RetrieveService:39 - Request JSON string is:{     "Roll_no":26   }
+2021-10-04 09:11:20 INFO  RetrieveService:39 - Request JSON string is:{     "Roll_no":5   }
+2021-10-04 09:16:04 INFO  ApplicationContext:40 - context object destroyed
+2021-10-04 09:16:05 INFO  ApplicationContext:17 - context initialization started
+2021-10-04 09:16:05 INFO  ApplicationContext:24 - log4j file is loaded successfully
+2021-10-04 09:16:05 DEBUG ApplicationContext:29 - Dbconnection
+2021-10-04 09:16:05 INFO  ApplicationContext:35 - context initialization ended
+2021-10-04 10:15:18 INFO  ApplicationContext:40 - context object destroyed
+2021-10-04 10:15:22 INFO  ApplicationContext:17 - context initialization started
+2021-10-04 10:15:22 INFO  ApplicationContext:24 - log4j file is loaded successfully
+2021-10-04 10:15:22 DEBUG ApplicationContext:29 - Dbconnection
+2021-10-04 10:15:22 INFO  ApplicationContext:35 - context initialization ended
+2021-10-04 10:15:35 INFO  RetrieveService:39 - Request JSON string is:{     "Roll_no":5   }
+2021-10-04 10:16:35 INFO  ApplicationContext:40 - context object destroyed
+2021-10-04 10:16:37 INFO  ApplicationContext:17 - context initialization started
+2021-10-04 10:16:37 INFO  ApplicationContext:24 - log4j file is loaded successfully
+2021-10-04 10:16:37 DEBUG ApplicationContext:29 - Dbconnection
+2021-10-04 10:16:37 INFO  ApplicationContext:35 - context initialization ended
+2021-10-04 10:16:50 INFO  ApplicationContext:40 - context object destroyed
+2021-10-04 10:16:53 INFO  ApplicationContext:17 - context initialization started
+2021-10-04 10:16:53 INFO  ApplicationContext:24 - log4j file is loaded successfully
+2021-10-04 10:16:53 DEBUG ApplicationContext:29 - Dbconnection
+2021-10-04 10:16:53 INFO  ApplicationContext:35 - context initialization ended
+2021-10-04 10:17:40 INFO  InsertionService:37 - Request JSON string is:{    "Name":"Neena",    "Roll_no":29,    "Maths":93,    "Physics":72,    "Chemistry":81   }
+2021-10-04 10:19:42 INFO  ApplicationContext:40 - context object destroyed
+2021-10-04 10:19:43 INFO  ApplicationContext:17 - context initialization started
+2021-10-04 10:19:43 INFO  ApplicationContext:24 - log4j file is loaded successfully
+2021-10-04 10:19:43 DEBUG ApplicationContext:29 - Dbconnection
+2021-10-04 10:19:43 INFO  ApplicationContext:35 - context initialization ended

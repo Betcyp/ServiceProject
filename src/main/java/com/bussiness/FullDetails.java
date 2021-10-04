@@ -16,8 +16,8 @@ public class FullDetails {
 			Connection connection;
 			DbConnection db=new DbConnection();
 			connection=db.getConnection();
+			PreparedStatement inserted=connection.prepareStatement(StudentQueries.INSERT_QUERY);
 			try {
-				PreparedStatement inserted=connection.prepareStatement(StudentQueries.INSERT_QUERY);
 				inserted.setString(1,name);
 				inserted.setInt(2,roll_no);
 				inserted.setInt(3,maths);
@@ -28,7 +28,8 @@ public class FullDetails {
 			catch(Exception e) {
 				e.printStackTrace();
 			}
-			finally{
+			finally {
+				inserted.close();
 				connection.close();
 			}
 	}
@@ -37,10 +38,10 @@ public class FullDetails {
 			Connection connection;
 			DbConnection db=new DbConnection();
 			connection=db.getConnection();
+			PreparedStatement ps=connection.prepareStatement(StudentQueries.RETRIEVE_QUERYJSON);
+			ps.setInt(1,roll_no);
+			ResultSet rs= ps.executeQuery();
 			try {
-				PreparedStatement ps=connection.prepareStatement(StudentQueries.RETRIEVE_QUERYJSON);
-				ps.setInt(1,roll_no);
-				ResultSet rs= ps.executeQuery();
 				JSONObject jsonObject=new JSONObject();
 				while(rs.next()) {
 					jsonObject.put("name",rs.getString("name"));
@@ -54,8 +55,10 @@ public class FullDetails {
 		   catch(Exception e) {
 				e.printStackTrace();
 		   }
-		   finally{
-				connection.close();
+		   finally {
+			   ps.close();
+			   rs.close();
+			   connection.close();
 		   }
 		   return null;
 	}
